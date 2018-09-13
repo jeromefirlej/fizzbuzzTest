@@ -1,0 +1,7 @@
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\bin\Debug\Cours.Implementations.pdb
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\obj\Debug\Cours.Implementations.csprojAssemblyReference.cache
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\obj\Debug\Cours.Implementations.csproj.CoreCompileInputs.cache
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\obj\Debug\Cours.Implementations.pdb
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\bin\Debug\Cours.Implementations.dll.config
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\bin\Debug\Cours.Implementations.dll
+C:\Users\s610392\Source\Repos\CoursTest.Tests\Cours.Implementations\obj\Debug\Cours.Implementations.dll
